@@ -1,9 +1,9 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Rodolfo!
 
-<div align="left">
+ <!--<div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodolfoamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfoamorim&layout=compact&langs_count=7&theme=dark"/>-->
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfoamorim&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
 <div style="display: inline_block"><br>
@@ -19,7 +19,7 @@
   <div> 
   <a href = "mailto:rodolfoamorim36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/rodolfo-amorim-ab2ba612" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</div> -->
 
 <!--
 **RodolfoAmorim/rodolfoamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
