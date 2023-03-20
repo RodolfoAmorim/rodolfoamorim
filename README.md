@@ -1,4 +1,4 @@
-<!--### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Rodolfo!
+###Olá, Eu sou o Rodolfo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 
 
  <div align="left">
   <a href="https://github.com/rafaballerini">
@@ -19,7 +19,7 @@
   <div> 
   <a href = "mailto:rodolfoamorim36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/rodolfo-amorim-ab2ba612" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> -->
+</div>
 
 <!--
 **RodolfoAmorim/rodolfoamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
