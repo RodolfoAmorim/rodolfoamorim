@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/rodolfo-amorim-ab2ba612" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-- 🔭 FrondEnd
+- 🔭 Desenvolvimento Web
 - 🌱 Atualmente focado em React e React Native <br>
 
  <div align="left">
